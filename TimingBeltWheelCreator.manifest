@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"e2c30254-6ce3-4556-9424-003e16685d38",
+	"author":	"Peter Böker",
+	"description":	{
+		"":	"Simple Add-In to create HTD, AT and T timing belt wheels."
+	},
+	"version":	"rel-0-1-0",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
